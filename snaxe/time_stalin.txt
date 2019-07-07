@@ -1,0 +1,16 @@
+[Name]
+Time-Stalin
+[Description]
+The user can stop and slow-down time.
+[Strength]
+1
+[Stealth]
+10
+[Shield]
+1
+[Style]
+9
+[Situation]
+10
+[HBA Rating]
+Hot
