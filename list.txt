@@ -1,1 +1,5 @@
+Flight[/powerdata/bird/flight.txt]
+Black Hole Digestion[/powerdata/bird/black_hole_digestion.txt]
 Time-Stalin[/powerdata/snaxe/time_stalin.txt]
+Shape Shifter[/powerdata/snaxe/shape_shifter.txt]
+Intelligence[/powerdata/other/intelligence.txt]

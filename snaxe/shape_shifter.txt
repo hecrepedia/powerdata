@@ -1,0 +1,16 @@
+[Name]
+Shape Shifter
+[Description]
+The user can transform into many or a few different objects. All Snaxii have a Snaxe form.
+[Strength]
+8
+[Stealth]
+8
+[Shield]
+8
+[Style]
+7
+[Situation]
+10
+[HBA Rating]
+Garaam

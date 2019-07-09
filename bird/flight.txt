@@ -1,0 +1,16 @@
+[Name]
+Flight
+[Description]
+By rapidly flapping its wings, the user can commute in the sky.
+[Strength]
+5
+[Stealth]
+5
+[Shield]
+5
+[Style]
+2
+[Situation]
+10
+[HBA Rating]
+Mild

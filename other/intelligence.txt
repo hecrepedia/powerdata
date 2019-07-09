@@ -1,0 +1,16 @@
+[Name]
+Intelligence
+[Description]
+The user has some to many smartness.
+[Strength]
+1
+[Stealth]
+1
+[Shield]
+1
+[Style]
+1
+[Situation]
+10
+[HBA Rating]
+Mild
